@@ -629,7 +629,7 @@ public class Cube {
                     System.out.println("Solution: R");
                     break;
                 case "l":
-                    System.out.println("Solution: I");
+                    System.out.println("Solution: L");
                     break;
                 case "f":
                     System.out.println("Solution: F");
