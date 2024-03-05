@@ -1,6 +1,7 @@
 //3/4/24
 //madison davis
 //builds a rubiks cube, takes user input and outputs moves to solve
+//worked with nate on this
 package com.example.project;
 
 import java.util.Scanner;
